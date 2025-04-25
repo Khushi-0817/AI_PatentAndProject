@@ -1,0 +1,18 @@
+This repository contains the official patent files and documentation for the AI-based surveillance system titled “Automated Nighttime Surveillance System with AI-Driven Weapon Detection and Alarm Activation.” The system is designed to enhance night security by leveraging AI-based computer vision to detect weapons in real time and trigger an immediate alarm response.
+
+The project is part of a patent filed in 2025 and demonstrates the integration of AI, surveillance, and safety mechanisms into one robust system.
+
+🧠 Key Features
+🔍 AI-Powered Weapon Detection: Real-time detection using deep learning models.
+
+🌃 Nighttime Surveillance Optimization: Infrared and low-light image handling.
+
+📢 Automatic Alarm System: Triggers alarms on detection of potential threats.
+
+🗂 Modular Codebase: Easy to integrate with existing CCTV or IP camera setups.
+
+📸 Live Camera Feed Processing: Capable of detecting threats in video streams.
+
+🧪 Model Training and Testing Scripts included.
+
+📊 Dashboard for Monitoring (optional integration).
